@@ -10,8 +10,8 @@ http://localhost:6789/index.html
 
 # Compilacion
 
-javac ServidorWeb.java
+`javac ServidorWeb.java`
 
 # Ejecución
 
-java ServidorWeb.java
+`java ServidorWeb.java`
